@@ -1,9 +1,5 @@
 body {
-  font-family: 'Comic Sans MS',Comic Sans MS, Comic Sans, cursive;
-  line-height: 1.5;
-  background-color: #FFC0CB;
-  color: #333;
-  padding: 1rem;
+  background-image: url("../images/flowers.jpeg");
 }
 
 nav
